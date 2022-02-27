@@ -1,5 +1,9 @@
 # 第二章 IMU传感器
 
+课程代码：
+
+[https://github.com/kahowang/Visual_Internal_Odometry/tree/main/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20IMU%E4%BC%A0%E6%84%9F%E5%99%A8/homework_chapter2](https://github.com/kahowang/Visual_Internal_Odometry/tree/main/%E7%AC%AC%E4%BA%8C%E7%AB%A0%20IMU%E4%BC%A0%E6%84%9F%E5%99%A8/homework_chapter2)
+
 参考博客：
 
 [深蓝学院《从零开始手写VIO》作业2](https://blog.csdn.net/hitljy/article/details/107553751)

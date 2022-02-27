@@ -2,7 +2,7 @@
 
 课程代码：
 
-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
+[https://github.com/kahowang/Visual_Internal_Odometry/tree/main/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E6%91%A1%E8%BF%B0%E4%B8%8E%E8%AF%BE%E7%A8%8B%E4%BB%8B%E7%BB%8D/chapter1_ws](https://github.com/kahowang/Visual_Internal_Odometry/tree/main/%E7%AC%AC%E4%B8%80%E7%AB%A0%20%E6%91%A1%E8%BF%B0%E4%B8%8E%E8%AF%BE%E7%A8%8B%E4%BB%8B%E7%BB%8D/chapter1_ws)
 
 参考博客：
 
