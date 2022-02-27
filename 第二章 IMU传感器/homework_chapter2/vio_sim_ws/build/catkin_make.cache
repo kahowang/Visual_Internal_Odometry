@@ -1,0 +1,2 @@
+vio_data_simulation-ros_version
+-DCATKIN_DEVEL_PREFIX=/home/lory/Visual_Internal_Odometry/第二章 IMU传感器/homework_chapter2/vio_sim_ws/devel -DCMAKE_INSTALL_PREFIX=/home/lory/Visual_Internal_Odometry/第二章 IMU传感器/homework_chapter2/vio_sim_ws/install -G Unix Makefiles

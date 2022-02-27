@@ -1,0 +1,64 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lory/Visual_Internal_Odometry/第二章 IMU传感器/homework_chapter2/vio_sim_ws/src/vio_data_simulation-ros_version/src/gener_alldata_txt.cpp
+sys/time.h
+-
+fstream
+-
+iomanip
+-
+imu.h
+/home/lory/Visual_Internal_Odometry/第二章 IMU传感器/homework_chapter2/vio_sim_ws/src/vio_data_simulation-ros_version/src/imu.h
+
+/home/lory/Visual_Internal_Odometry/第二章 IMU传感器/homework_chapter2/vio_sim_ws/src/vio_data_simulation-ros_version/src/imu.cpp
+random
+-
+imu.h
+/home/lory/Visual_Internal_Odometry/第二章 IMU传感器/homework_chapter2/vio_sim_ws/src/vio_data_simulation-ros_version/src/imu.h
+utilities.h
+/home/lory/Visual_Internal_Odometry/第二章 IMU传感器/homework_chapter2/vio_sim_ws/src/vio_data_simulation-ros_version/src/utilities.h
+
+/home/lory/Visual_Internal_Odometry/第二章 IMU传感器/homework_chapter2/vio_sim_ws/src/vio_data_simulation-ros_version/src/imu.h
+eigen3/Eigen/Core
+-
+eigen3/Eigen/Geometry
+-
+iostream
+-
+vector
+-
+param.h
+/home/lory/Visual_Internal_Odometry/第二章 IMU传感器/homework_chapter2/vio_sim_ws/src/vio_data_simulation-ros_version/src/param.h
+
+/home/lory/Visual_Internal_Odometry/第二章 IMU传感器/homework_chapter2/vio_sim_ws/src/vio_data_simulation-ros_version/src/param.cpp
+param.h
+/home/lory/Visual_Internal_Odometry/第二章 IMU传感器/homework_chapter2/vio_sim_ws/src/vio_data_simulation-ros_version/src/param.h
+
+/home/lory/Visual_Internal_Odometry/第二章 IMU传感器/homework_chapter2/vio_sim_ws/src/vio_data_simulation-ros_version/src/param.h
+eigen3/Eigen/Core
+-
+
+/home/lory/Visual_Internal_Odometry/第二章 IMU传感器/homework_chapter2/vio_sim_ws/src/vio_data_simulation-ros_version/src/utilities.cpp
+utilities.h
+/home/lory/Visual_Internal_Odometry/第二章 IMU传感器/homework_chapter2/vio_sim_ws/src/vio_data_simulation-ros_version/src/utilities.h
+
+/home/lory/Visual_Internal_Odometry/第二章 IMU传感器/homework_chapter2/vio_sim_ws/src/vio_data_simulation-ros_version/src/utilities.h
+imu.h
+/home/lory/Visual_Internal_Odometry/第二章 IMU传感器/homework_chapter2/vio_sim_ws/src/vio_data_simulation-ros_version/src/imu.h
+eigen3/Eigen/Core
+-
+eigen3/Eigen/Geometry
+-
+iostream
+-
+vector
+-
+fstream
+-
+

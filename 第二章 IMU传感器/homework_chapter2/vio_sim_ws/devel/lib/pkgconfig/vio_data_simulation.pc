@@ -1,0 +1,8 @@
+prefix=/home/lory/Visual_Internal_Odometry/第二章 IMU传感器/homework_chapter2/vio_sim_ws/devel
+
+Name: vio_data_simulation
+Description: Description of vio_data_simulation
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
